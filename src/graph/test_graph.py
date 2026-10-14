@@ -1,0 +1,21 @@
+import sys
+import os
+
+sys.path.append(
+    os.path.abspath(
+        os.path.join(
+            os.path.dirname(__file__),
+            "../.."
+        )
+    )
+)
+
+from src.graph.workflow import graph
+
+result = graph.invoke(
+    {
+        "query": "refund issue"
+    }
+)
+
+print(result)

@@ -1,0 +1,17 @@
+Password Reset:
+Users can reset their password using the Forgot Password option on the login screen.
+
+Refund Policy:
+Refund requests are processed within 5-7 business days after approval.
+
+Account Update:
+Customers can update personal information from the account settings page.
+
+Loan Foreclosure:
+Foreclosure charges depend on loan type and remaining tenure.
+
+Credit Card:
+Customers may apply for a credit card online through the banking portal.
+
+Escalation:
+Complex customer complaints may be escalated to human support.

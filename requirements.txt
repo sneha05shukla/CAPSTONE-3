@@ -1,0 +1,15 @@
+langchain
+langgraph
+langchain-community
+langchain-huggingface
+faiss-cpu
+sentence-transformers
+fastapi
+uvicorn
+streamlit
+python-dotenv
+pydantic
+pytest
+rouge-score
+nltk
+rank-bm25
